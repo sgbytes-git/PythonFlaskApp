@@ -1,2 +1,6 @@
 Flask<1
 gunicorn
+Flask-RESTful
+SQLAlchemy
+requests
+psycopg2
